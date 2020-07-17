@@ -12,6 +12,7 @@
 		674387C924C1EABD0044F0DE /* art.scnassets in Resources */ = {isa = PBXBuildFile; fileRef = 674387C824C1EABD0044F0DE /* art.scnassets */; };
 		674387CB24C1EAC10044F0DE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 674387CA24C1EAC10044F0DE /* Assets.xcassets */; };
 		674387CE24C1EAC10044F0DE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 674387CC24C1EAC10044F0DE /* Main.storyboard */; };
+		674387D824C1F5BE0044F0DE /* Screen Shot 2020-07-17 at 10.38.32.png in Resources */ = {isa = PBXBuildFile; fileRef = 674387D724C1F5BE0044F0DE /* Screen Shot 2020-07-17 at 10.38.32.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		674387CD24C1EAC10044F0DE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		674387CF24C1EAC10044F0DE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		674387D024C1EAC10044F0DE /* MaterialTests.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = MaterialTests.entitlements; sourceTree = "<group>"; };
+		674387D724C1F5BE0044F0DE /* Screen Shot 2020-07-17 at 10.38.32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Screen Shot 2020-07-17 at 10.38.32.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			children = (
 				674387C424C1EABD0044F0DE /* AppDelegate.swift */,
 				674387C624C1EABD0044F0DE /* GameViewController.swift */,
+				674387D724C1F5BE0044F0DE /* Screen Shot 2020-07-17 at 10.38.32.png */,
 				674387C824C1EABD0044F0DE /* art.scnassets */,
 				674387CA24C1EAC10044F0DE /* Assets.xcassets */,
 				674387CC24C1EAC10044F0DE /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				674387CE24C1EAC10044F0DE /* Main.storyboard in Resources */,
 				674387CB24C1EAC10044F0DE /* Assets.xcassets in Resources */,
+				674387D824C1F5BE0044F0DE /* Screen Shot 2020-07-17 at 10.38.32.png in Resources */,
 				674387C924C1EABD0044F0DE /* art.scnassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
